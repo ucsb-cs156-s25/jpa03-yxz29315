@@ -1,4 +1,4 @@
-# jpa03-yxz29315
+# STARTER-jpa03
 
 Running at: <https://jpa03-yxz29315.dokku-12.cs.ucsb.edu/>
 
